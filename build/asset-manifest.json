@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_IncrementAndDecrement/static/css/main.073c9b0a.css",
+    "main.js": "/React_IncrementAndDecrement/static/js/main.227698bb.js",
+    "index.html": "/React_IncrementAndDecrement/index.html",
+    "main.073c9b0a.css.map": "/React_IncrementAndDecrement/static/css/main.073c9b0a.css.map",
+    "main.227698bb.js.map": "/React_IncrementAndDecrement/static/js/main.227698bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.227698bb.js"
+  ]
+}
